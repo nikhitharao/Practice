@@ -9,7 +9,7 @@
 
 int main()
 {
-	printf("You are a %c %s",'C',"programmer");
+	printf("Hello World!");
 
 	return 0;
 }
